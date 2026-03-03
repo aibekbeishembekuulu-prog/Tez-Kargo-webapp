@@ -1,0 +1,25 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Папки и файлы редакторов/IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
+
+# Android / Gradle (если вдруг будут файлы Android Studio)
+.gradle/
+build/
+local.properties
+*.iml
+*.apk
+*.aab
+output-metadata.json
+
+# Google Services
+google-services.json
+
+# Файлы профилирования
+*.hprof
